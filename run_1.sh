@@ -1,0 +1,1 @@
+python main.py --id 1 --lr 0.01 --epochs 15 | tee ./output/1/logs.txt
